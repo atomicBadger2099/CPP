@@ -1,2 +1,4 @@
 # CPP
-C++ written programs
+home for my C++ self-written programs
+
+
