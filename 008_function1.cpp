@@ -3,6 +3,9 @@
 // coded by Dwayne Brock 6-24-2022
 
 
+//EACH FUNCTION SHOULD PERFORM A SINGLE REPEATABLE TASK
+
+
 double add_number()
 {
     std::cout << "\n\nfunction to add two numbers:\n" << std::endl;
