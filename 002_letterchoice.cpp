@@ -6,8 +6,10 @@ int main() {
     std::cout << "\nBEGIN PROGRAM." << std::endl;
     
     char choice_1 = 'N';
+ 
     std::cout << "\n\tEnter the letter a for option a or b for option b, and hit return:" << std::endl;
     std::cin >> choice_1;
+ 
     if ((choice_1 == 'a')||(choice_1 == 'A')) {
         std::cout << "\n\tYou picked the first choice." << std::endl;
         }
