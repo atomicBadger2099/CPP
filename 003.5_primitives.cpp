@@ -28,7 +28,7 @@ int main() {
     std::cout << "-----------------------------------------------------------------------------" << std::endl;
     std::cout << "PRIMITIVE DATATYPES DEMO" <<std::endl;
     std::cout << "by Dwayne Brock" << std::endl;
-    std:: cout << "written May 17, 2025" << std::endl;
+    std::cout << "written May 17, 2025" << std::endl;
     std::cout << "-----------------------------------------------------------------------------" << std::endl;
     std::cout << "" << std::endl;
 
